@@ -1,14 +1,14 @@
-# DOTBuddies: A Decentralized Dating Platform on Polkadot
+# DOTBuddies: Verified Credentials-based Dating Platform on Polkadot
 
-DOTBuddies is a decentralized, privacy-first dating platform built on the **Polkadot ecosystem**. It leverages the **KILT Protocol** to empower users with secure, verifiable, and self-sovereign identity (SSI)-based profiles. DOTBuddies aims to eliminate fake profiles, safeguard user data, and foster genuine connections in a trustworthy and engaging environment.
+DOTBuddies is a Verified Credentials-based, privacy-first dating platform built on the **Polkadot ecosystem**. It leverages the **KILT Protocol** to empower users with secure, verifiable, and self-sovereign identity (SSI)-based profiles. DOTBuddies aims to eliminate fake profiles, safeguard user data, and foster genuine connections in a trustworthy and engaging environment.
 
 ---
 
 ## 🚀 Features
 
 ### 🔐 **Privacy-Centric Profiles**
-- Users maintain **full control** of their personal data through self-sovereign identity registration with **KILT Protocol’s SocialKYC**.
-- Sensitive information remains private and is only shared with explicit user consent.
+- Users maintain full control of their personal data through self-sovereign identity registration with **KILT Protocol’s SocialKYC**.
+- Sensitive information remains private and is only shared with explicit user consent **after matching** with another person.
 
 ### 🛡️ **Verified Profiles**
 - Profiles are authenticated using **Decentralized Identifiers (DIDs)** and verifiable credentials, eliminating fake profiles.
@@ -16,9 +16,7 @@ DOTBuddies is a decentralized, privacy-first dating platform built on the **Polk
 
 ### 🧩 **Built on Polkadot**
 - Leverages **Polkadot’s scalable and interoperable infrastructure**, enhancing platform security and functionality.
-
-### 🌍 **Decentralized Infrastructure**
-- No centralized database. User data is **attested via KILT Protocol’s SocialKYC**, ensuring decentralized and transparent management.
+- User data is attested via **KILT Protocol’s SocialKYC**, ensuring decentralized and transparent management.
 
 ### 💡 **Enhanced User Engagement**
 - Provides a safe, inclusive, and enjoyable dating experience, encouraging meaningful and secure interactions.
@@ -29,7 +27,7 @@ DOTBuddies is a decentralized, privacy-first dating platform built on the **Polk
 
 Traditional dating platforms face challenges like fake profiles, data breaches, and user distrust. DOTBuddies addresses these issues by:
 
-- Prioritizing **privacy** and **data ownership** through **DID and SSI solutions** offered by KILT Protocol’s SocialKYC.
+- Prioritizing **privacy** and **data ownership** through **DID and SSI solutions** offered by **KILT Protocol’s SocialKYC**.
 - Eliminating fake profiles with **verifiable credentials**, fostering a safer and more trustworthy environment.
 - Providing a decentralized infrastructure where users control their information, eliminating centralized data breaches.
 
@@ -59,19 +57,15 @@ Traditional dating platforms face challenges like fake profiles, data breaches, 
    - Users browse and connect with other **verified profiles**.
    - All interactions are **end-to-end encrypted** to protect privacy and foster secure communication.
 
-4. **Decentralized Data Management**:
-   - User data is stored and managed on a **decentralized infrastructure**, eliminating risks of central storage and breaches.
-
 ---
 
 ## 🔒 Security Features
 
 - **KILT Protocol**: Provides robust privacy and self-sovereign identity features.
-- **No Data Storage**: User data is never stored on centralized servers, protecting against breaches.
+- **No Data Storage**: User credentials are never stored on centralized servers, protecting against breaches.
 - **End-to-End Encryption**: All user communications are encrypted, ensuring privacy and security.
 
 ---
-
 
 ## 🌍 Join Us
 
